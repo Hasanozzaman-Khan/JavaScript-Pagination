@@ -1,0 +1,39 @@
+.pageNum{
+  width: 100%;
+  text-align: center;
+}
+.active{
+  background-color: red;
+  font-size: 1.4em
+}
+.pagin{
+  display: block;
+  margin: auto;
+}
+.loadButton:hover{
+  background-color: rgba(44, 44, 39, 0.3);
+}
+.loadButton{
+  display: inline-block;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+.btn:hover{
+  background-color: rgba(255, 0, 0, 0.5);
+}
+.btn{
+  margin: 0 5px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  font-size: 1.2em;
+  display: inline-block;
+}
+.main{
+  display: block;
+  padding: 20px;
+  text-align: center;
+}
